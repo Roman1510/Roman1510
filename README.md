@@ -2,7 +2,8 @@
 - 👀 I’m interested in React, React Native, Flutter. And... Vue 3!
 - 🌱 I always learn, and I work as a developer
 
-- ![alt text]((https://www.codewars.com/users/RomanVinnick/badges/large))
+[![Codewars Badge](https://www.codewars.com/users/RomanVinnick/badges/large)](https://www.codewars.com/users/RomanVinnick)
+
 <!---
 :)
 --->
